@@ -103,3 +103,6 @@ My goals after completing the bootcamp are:
 This bootcamp has been a transformative learning experience. It provided me with both technical knowledge and professional skills that will support my future career.
 
 I am proud of the progress I have made and excited about the opportunities ahead. I would like to thank my instructors and mentors for their guidance and support throughout this journey.
+
+## Author
+**Godfred APPIAH BAAH**
